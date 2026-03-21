@@ -1,0 +1,5 @@
+# Removing Locally Sourced Files
+.*
+
+# undo removing [DOT]gitignore 
+!.gitignore
